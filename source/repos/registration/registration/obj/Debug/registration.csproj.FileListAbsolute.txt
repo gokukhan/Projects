@@ -14,3 +14,22 @@ C:\Users\Sher Khan\source\repos\registration\registration\bin\Debug\BD_Rgs.xsd
 C:\Users\Sher Khan\source\repos\registration\registration\bin\Debug\BD_Rgs.xss
 C:\Users\Sher Khan\source\repos\registration\registration\bin\Debug\regis_acc.mdb
 C:\Users\Sher Khan\source\repos\registration\registration\obj\Debug\registration.Form2.resources
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\bin\Debug\regis_acc.mdb
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\bin\Debug\BD_Rgs.Designer.cs
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\bin\Debug\BD_Rgs.xsc
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\bin\Debug\BD_Rgs.xsd
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\bin\Debug\BD_Rgs.xss
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\bin\Debug\registration.exe.config
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\bin\Debug\registration.exe
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\bin\Debug\registration.pdb
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\obj\Debug\registration.Form1.resources
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\obj\Debug\registration.Form2.resources
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\obj\Debug\registration.Properties.Resources.resources
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\obj\Debug\registration.csproj.GenerateResource.cache
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\obj\Debug\registration.csproj.CoreCompileInputs.cache
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\obj\Debug\registration.exe
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\obj\Debug\registration.pdb
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\obj\Debug\registration.csprojAssemblyReference.cache
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\bin\Debug\MySql.Data.dll
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\obj\Debug\registration.Form5.resources
+C:\Users\Sher\OneDrive - RAC\Projects\source\repos\registration\registration\obj\Debug\registration.csproj.CopyComplete
